@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsLibCore", "OsLibCore\OsLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persist", "Persist\Persist.csproj", "{92986D12-E72C-4403-AD74-0ED8321B580C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaiUtilsCore", "RaiUtils\RaiUtilsCore.csproj", "{FE951EBD-3C23-4C6F-84DA-A4F0299A636C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaiUtilsCore", "RaiUtilsCore\RaiUtilsCore.csproj", "{FE951EBD-3C23-4C6F-84DA-A4F0299A636C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
